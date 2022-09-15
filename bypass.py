@@ -45,7 +45,7 @@ x =input("TULISEN NOMER HPne:  ")
 if len(str(x)) ==12:
 	print("connecting")
 	os.system("clear")
-	s = pyfiglet.figlet_format("BYPASSINGGATE WAY")
+	s = pyfiglet.figlet_format("BYPASSING GATEWAY")
 	print("\033[1;35;40m\n")
 	print(s)
 	print("         LAGI REMBUKAN KARO NOMER TUJUAN -/")
