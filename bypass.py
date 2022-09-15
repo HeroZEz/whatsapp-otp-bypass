@@ -12,7 +12,7 @@ os.system("pkg install toilet -y")
 os.system("clear")
 os.system("pkg install cowsay -y")
 os.system("clear")
-whats = pyfiglet.figlet_format("WHATSAPP OTP BYPASSER")
+whats = pyfiglet.figlet_format("mr4605")
 print("\033[1;35;40m\n")
 print(whats)
 time.sleep(2)
@@ -21,7 +21,7 @@ print("""	         .----------------------------------------------.
 	         |      TOOL IKI MUNG ISOH BYPASS 3 OTP		|
 	         |     PENDAK 1 OTP  WEKTUNE MUNG 10 DETIK      |	
 		 |        KANGGOKNO GAWE TUMINDAK BECIK         |
-		 |             RECODE OLEH mr4605		|
+		 |             WHATSAPP-OTP-BYPASS		|
 		 |						|
 		 .----------------------------------------------.  """)
 time.sleep(1)
