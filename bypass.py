@@ -18,17 +18,17 @@ print(whats)
 time.sleep(2)
 print("\033[1;31;40m\n")
 print("""	         .----------------------------------------------.
-	         |  THE TOOL CAN ONLY BYPASS 3 OTP		|
-	         | EACH OTP IS VALID ONLY FOR 10 SECONDS	|	
-		 | USE THIS TOOL ONLY FOR EDUCATIONAL PURPOSE	|
-		 |        TOOL DEVELOPRD BY OXCEY		|
+	         |      TOOL IKI MJNG ISOH BYPASS 3 OTP		|
+	         |     PENDAK 1 OTP  WEKTUNE MUNG10 DETIK       |	
+		 |        KANGGOKNO GWE TUMINDAK BECIK          |
+		 |             RECODE KATO mr5605		|
 		 |						|
 		 .----------------------------------------------.  """)
 time.sleep(1)
 print("\033[1;32;40m\n")
-print("ENNTER THE NUMBER WITTH ITS COUNTRY CODE")
-print("DONT USE + SIGN ")
-print("OTP BYPASSABLE NUMBERS ARE:..")
+print("TULISEN NOMER NGANGGO KODE NEGORO")
+print("ORA USAH NGANGGO TONDO + (plus) ")
+print("IKI HASILE BYPASS:..")
 print("INDIA	     91")
 print("USA	      1")
 print("UK	     44")
@@ -41,7 +41,7 @@ print("ARGENTINA    54")
 print("PHLPNES      63")
 print("\033[1;33;40m\n")
 time.sleep(1)
-x =input("ENTER THE VICTIMS MOBILE NUBER:  ")
+x =input("TULISEN NOMER HPne:  ")
 if len(str(x)) ==12:
 	print("connecting")
 	os.system("clear")
