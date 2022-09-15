@@ -1,8 +1,30 @@
-#PTWhatsAPP-otp_bypasser_v1.0
 
 
 
-CARANE :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+           WhatsAPP-otp_bypasser (ReCode)
+
+
+
+CARANE NGENE:
 
 $ pkg install git
 
